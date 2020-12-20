@@ -1,8 +1,11 @@
 # Reactario
 React wrapped mario clone.
 
+# Install dependencies
+npm install
+
 # Dev Test
 npm start
 
-# Pro Build
+# Prod Build
 npm build
