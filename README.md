@@ -4,5 +4,5 @@ React wrapped mario clone.
 # Dev Test
 npm start
 
-# Pro Build
+# Prod Build
 npm build
